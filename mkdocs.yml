@@ -50,8 +50,17 @@ nav:
     - manufacturing/index.md
     - Peptide Synthesis Overview: manufacturing/peptide-synthesis-overview.md
     - SPPS vs. Liquid-Phase: manufacturing/spps-vs-liquid-phase.md
+    - Fmoc Chemistry Guide: manufacturing/fmoc-chemistry-guide.md
+    - Protecting Group Strategies: manufacturing/protecting-group-strategies.md
+    - Capping Strategies: manufacturing/capping-strategies.md
+    - Microwave-Assisted SPPS: manufacturing/microwave-spps.md
+    - Quality by Design (QbD): manufacturing/qbd-synthesis.md
+    - Green Chemistry: manufacturing/green-chemistry.md
     - Manufacturing Workflow: manufacturing/manufacturing-workflow.md
     - Production Scale: manufacturing/production-scale.md
+    - Purity Grades Guide: manufacturing/purity-grades-guide.md
+    - Peptide Pricing Guide: manufacturing/peptide-pricing-guide.md
+    - Peptide Packaging: manufacturing/peptide-packaging.md
   - Process Knowledge:
     - process/index.md
     - SPPS Process: process/spps-process.md
@@ -62,52 +71,100 @@ nav:
     - Purification: process/purification.md
     - Lyophilization: process/lyophilization.md
     - Peptide Folding: process/peptide-folding.md
+    - Advanced Topics:
+      - Difficult Sequences: process/difficult-sequences.md
+      - Scale-Up Considerations: process/scale-up-considerations.md
+      - Racemization: process/racemization.md
+      - Disulfide Bridge Strategies: process/disulfide-bridge-strategies.md
+      - Cyclic Peptide Synthesis: process/cyclic-peptide-synthesis.md
+      - On-Resin Modifications: process/on-resin-modifications.md
+      - Salt Form Selection: process/salt-form-selection.md
+    - Process Support:
+      - Peptide Solubility Guide: process/peptide-solubility.md
+      - Comparative Solvent Guide: process/comparative-solvent-guide.md
+      - In-Process Control: process/in-process-control.md
+      - Process Analytical Technology: process/process-analytical-technology.md
+      - SPPS Troubleshooting: process/spps-troubleshooting.md
+      - Storage & Handling: process/storage-handling.md
+      - Formulation & Excipients: process/formulation-excipients.md
     - Custom Synthesis: process/custom-synthesis.md
-  - Difficult Sequences: process/difficult-sequences.md
-  - Scale-Up Considerations: process/scale-up-considerations.md
   - Equipment Database:
     - equipment/index.md
-    - Peptide Synthesizer: equipment/peptide-synthesizer.md
-    - Preparative HPLC: equipment/preparative-hplc.md
-    - Analytical HPLC: equipment/analytical-hplc.md
-    - LC-MS System: equipment/lc-ms.md
-    - Mass Spectrometer: equipment/mass-spectrometer.md
-    - Freeze Dryer: equipment/freeze-dryer.md
-    - Vacuum Drying System: equipment/vacuum-drying-system.md
-    - Flash Chromatography: equipment/flash-chromatography.md
-    - Reactor System: equipment/reactor.md
-    - Nitrogen System: equipment/nitrogen-system.md
-    - Prep HPLC Scale-Up: equipment/scale-up-hplc.md
+    - Synthesis & Reactors:
+      - Peptide Synthesizer: equipment/peptide-synthesizer.md
+      - Reactor System: equipment/reactor.md
+      - Laboratory-Scale Reactors: equipment/laboratory-scale-reactors.md
+    - Purification Equipment:
+      - Preparative HPLC: equipment/preparative-hplc.md
+      - Prep HPLC Scale-Up: equipment/scale-up-hplc.md
+      - Flash Chromatography: equipment/flash-chromatography.md
+      - Chromatography Skid Systems: equipment/chromatography-skid-systems.md
+    - Analytical Equipment:
+      - Analytical HPLC: equipment/analytical-hplc.md
+      - LC-MS System: equipment/lc-ms.md
+      - Mass Spectrometer: equipment/mass-spectrometer.md
+    - HPLC Method Support:
+      - Column Selection Guide: equipment/column-selection-guide.md
+      - Detector Comparison: equipment/detector-comparison.md
+      - Column Care & Maintenance: equipment/column-care-maintenance.md
+      - HPLC Method Validation (Instr.): equipment/hplc-method-validation-instruments.md
+    - Support Systems:
+      - Freeze Dryer: equipment/freeze-dryer.md
+      - Vacuum Drying System: equipment/vacuum-drying-system.md
+      - Nitrogen System: equipment/nitrogen-system.md
+      - Water Systems: equipment/water-systems.md
+      - Cleanroom Classification: equipment/cleanroom-classification.md
   - Raw Materials:
     - raw-materials/index.md
-    - Fmoc Amino Acids: raw-materials/fmoc-amino-acids.md
-    - Boc Amino Acids: raw-materials/boc-amino-acids.md
-    - Wang Resin: raw-materials/wang-resin.md
-    - Rink Amide Resin: raw-materials/rink-amide-resin.md
-    - DMF (Solvent): raw-materials/dmf.md
-    - DCM (Solvent): raw-materials/dcm.md
-    - HBTU (Activator): raw-materials/hbtu.md
-    - HATU (Activator): raw-materials/hatu.md
-    - DIC (Activator): raw-materials/dic.md
-    - Oxyma (Activator): raw-materials/oxyma.md
-    - Acetonitrile: raw-materials/acetonitrile.md
-    - TFA: raw-materials/tfa.md
+    - Amino Acids:
+      - Fmoc Amino Acids: raw-materials/fmoc-amino-acids.md
+      - Boc Amino Acids: raw-materials/boc-amino-acids.md
+      - Fmoc Side-Chain Protecting Groups: raw-materials/fmoc-amino-acid-side-chains.md
+    - Resins:
+      - Wang Resin: raw-materials/wang-resin.md
+      - Rink Amide Resin: raw-materials/rink-amide-resin.md
+      - Resin Comparison Guide: raw-materials/resin-comparison-guide.md
+    - Activators:
+      - HBTU: raw-materials/hbtu.md
+      - HATU: raw-materials/hatu.md
+      - DIC: raw-materials/dic.md
+      - Oxyma: raw-materials/oxyma.md
+      - Coupling Reagent Comparison: raw-materials/coupling-reagent-comparison.md
+    - Solvents & Cleavage:
+      - DMF: raw-materials/dmf.md
+      - DCM: raw-materials/dcm.md
+      - Acetonitrile: raw-materials/acetonitrile.md
+      - TFA: raw-materials/tfa.md
+      - Solvent Purity Guide: raw-materials/solvent-purity-guide.md
+      - Scavenger Selection Guide: raw-materials/scavenger-selection-guide.md
     - Supplier Qualification: raw-materials/source-evaluation.md
   - Quality Control:
     - quality-control/index.md
-    - HPLC Analysis: quality-control/hplc-analysis.md
-    - LC-MS Testing: quality-control/lc-ms-testing.md
-    - Purity Analysis: quality-control/purity-analysis.md
-    - Peptide Content: quality-control/peptide-content.md
-    - Water Content: quality-control/water-content.md
-    - Residual Solvents: quality-control/residual-solvents.md
-    - Mass Confirmation: quality-control/mass-confirmation.md
-    - Amino Acid Analysis: quality-control/amino-acid-analysis.md
-    - Endotoxin Testing: quality-control/endotoxin-testing.md
-    - COA Understanding: quality-control/coa-understanding.md
-    - Method Validation: quality-control/method-validation.md
-    - Stability Testing: quality-control/stability-testing.md
-    - Impurity Profiling: quality-control/impurity-profiling.md
+    - Analytical Testing:
+      - HPLC Analysis: quality-control/hplc-analysis.md
+      - LC-MS Testing: quality-control/lc-ms-testing.md
+      - Purity Analysis: quality-control/purity-analysis.md
+      - Peptide Content: quality-control/peptide-content.md
+      - Water Content: quality-control/water-content.md
+      - Residual Solvents: quality-control/residual-solvents.md
+      - Mass Confirmation: quality-control/mass-confirmation.md
+      - Amino Acid Analysis: quality-control/amino-acid-analysis.md
+    - Biological Testing:
+      - Endotoxin Testing: quality-control/endotoxin-testing.md
+      - Microbial Limits Testing: quality-control/microbial-limits.md
+      - Bioassay Testing: quality-control/bioassay-testing.md
+    - Advanced QC:
+      - Peptide Mapping: quality-control/peptide-mapping.md
+      - Charge Profile Analysis: quality-control/charge-profile.md
+      - Aggregate Analysis: quality-control/aggregate-analysis.md
+      - Stability-Indicating Methods: quality-control/stability-indicating-methods.md
+      - Leak & Integrity Testing: quality-control/leak-testing.md
+    - Method & Quality Management:
+      - Method Validation: quality-control/method-validation.md
+      - Stability Testing: quality-control/stability-testing.md
+      - Impurity Profiling: quality-control/impurity-profiling.md
+      - COA Understanding: quality-control/coa-understanding.md
+      - Outsourcing Quality Checklist: quality-control/outsourcing-checklist.md
   - Process Flows:
     - process-flows/index.md
     - SPPS Workflow: process-flows/spps-flow.md
