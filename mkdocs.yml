@@ -1,0 +1,120 @@
+site_name: RPL Peptides Lab — Technical Documentation
+site_url: https://lab.rplpeptides.com/
+site_description: Technical knowledge base for peptide manufacturing — SPPS process, purification, quality control, equipment, and raw material specifications.
+copyright: Copyright &copy; 2026 RPL Peptides
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    primary: teal
+    accent: light blue
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+
+plugins:
+  - glightbox
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Manufacturing:
+    - manufacturing/index.md
+    - Peptide Synthesis Overview: manufacturing/peptide-synthesis-overview.md
+    - SPPS vs. Liquid-Phase: manufacturing/spps-vs-liquid-phase.md
+    - Manufacturing Workflow: manufacturing/manufacturing-workflow.md
+    - Production Scale: manufacturing/production-scale.md
+  - Process Knowledge:
+    - process/index.md
+    - SPPS Process: process/spps-process.md
+    - Resin Loading: process/resin-loading.md
+    - Coupling Reaction: process/coupling-reaction.md
+    - Deprotection: process/deprotection.md
+    - Cleavage: process/cleavage.md
+    - Purification: process/purification.md
+    - Lyophilization: process/lyophilization.md
+    - Peptide Folding: process/peptide-folding.md
+    - Custom Synthesis: process/custom-synthesis.md
+  - Difficult Sequences: process/difficult-sequences.md
+  - Scale-Up Considerations: process/scale-up-considerations.md
+  - Equipment Database:
+    - equipment/index.md
+    - Peptide Synthesizer: equipment/peptide-synthesizer.md
+    - Preparative HPLC: equipment/preparative-hplc.md
+    - Analytical HPLC: equipment/analytical-hplc.md
+    - LC-MS System: equipment/lc-ms.md
+    - Mass Spectrometer: equipment/mass-spectrometer.md
+    - Freeze Dryer: equipment/freeze-dryer.md
+    - Vacuum Drying System: equipment/vacuum-drying-system.md
+    - Flash Chromatography: equipment/flash-chromatography.md
+    - Reactor System: equipment/reactor.md
+    - Nitrogen System: equipment/nitrogen-system.md
+    - Prep HPLC Scale-Up: equipment/scale-up-hplc.md
+  - Raw Materials:
+    - raw-materials/index.md
+    - Fmoc Amino Acids: raw-materials/fmoc-amino-acids.md
+    - Boc Amino Acids: raw-materials/boc-amino-acids.md
+    - Wang Resin: raw-materials/wang-resin.md
+    - Rink Amide Resin: raw-materials/rink-amide-resin.md
+    - DMF (Solvent): raw-materials/dmf.md
+    - DCM (Solvent): raw-materials/dcm.md
+    - HBTU (Activator): raw-materials/hbtu.md
+    - HATU (Activator): raw-materials/hatu.md
+    - DIC (Activator): raw-materials/dic.md
+    - Oxyma (Activator): raw-materials/oxyma.md
+    - Acetonitrile: raw-materials/acetonitrile.md
+    - TFA: raw-materials/tfa.md
+    - Supplier Qualification: raw-materials/source-evaluation.md
+  - Quality Control:
+    - quality-control/index.md
+    - HPLC Analysis: quality-control/hplc-analysis.md
+    - LC-MS Testing: quality-control/lc-ms-testing.md
+    - Purity Analysis: quality-control/purity-analysis.md
+    - Peptide Content: quality-control/peptide-content.md
+    - Water Content: quality-control/water-content.md
+    - Residual Solvents: quality-control/residual-solvents.md
+    - Mass Confirmation: quality-control/mass-confirmation.md
+    - Amino Acid Analysis: quality-control/amino-acid-analysis.md
+    - Endotoxin Testing: quality-control/endotoxin-testing.md
+    - COA Understanding: quality-control/coa-understanding.md
+    - Method Validation: quality-control/method-validation.md
+    - Stability Testing: quality-control/stability-testing.md
+    - Impurity Profiling: quality-control/impurity-profiling.md
+  - Process Flows:
+    - process-flows/index.md
+    - SPPS Workflow: process-flows/spps-flow.md
+    - Purification Workflow: process-flows/purification-workflow.md
+  - About:
+    - about/index.md
+    - Methodology: about/methodology.md
+
+extra_css:
+  - assets/extra.css

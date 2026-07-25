@@ -1,0 +1,21 @@
+# SEO & GEO: Allow all standard crawlers
+User-agent: *
+Allow: /
+
+# GEO: Explicitly allow AI search crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+Sitemap: https://lab.rplpeptides.com/sitemap.xml
