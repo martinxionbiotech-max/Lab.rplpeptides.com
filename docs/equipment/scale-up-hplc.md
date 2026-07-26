@@ -63,4 +63,4 @@ To transfer a gradient from analytical to preparative scale:
 - **How to Transfer a Gradient from Analytical to Prep Scale?** — See the section above for detailed parameters and specifications.
 - **What Are Production-Scale HPLC Considerations?** — See the section above for detailed parameters and specifications.
 
-> 🔗 Related: [Preparative HPLC](../equipment/preparative-hplc.md) | [Purification Process](../process/purification.md) | [Scale-Up Considerations](../process/scale-up-considerations.md)
+> 🔗 Related: [Preparative HPLC](../equipment/preparative-hplc.md) | [Purification Process](../process/purification.md) | [Scale-Up Considerations](../process/scale-up-considerations.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

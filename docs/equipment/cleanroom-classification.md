@@ -149,4 +149,4 @@ MPPS = Most Penetrating Particle Size (typically 0.1–0.3 µm)
 5. **HEPA filter bypass** — leaks around filter frames, not just through the media
 6. **Inadequate cleaning frequency** — contact plate failures due to insufficient surface disinfection
 
-> **🔗 Related:** [Water Systems](./water-systems.md) | [Chromatography Skid Systems](./chromatography-skid-systems.md) | [Laboratory-Scale Reactors](./laboratory-scale-reactors.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md)
+> **🔗 Related:** [Water Systems](./water-systems.md) | [Chromatography Skid Systems](./chromatography-skid-systems.md) | [Laboratory-Scale Reactors](./laboratory-scale-reactors.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

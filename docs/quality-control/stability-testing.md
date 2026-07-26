@@ -81,4 +81,4 @@ Stability testing determines:
 - **Stability Study Types** — Review the section above for key parameters, methods, and quality criteria.
 - **Common Peptide Degradation Pathways** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [HPLC Analysis](./hplc-analysis.md) | [LC-MS Testing](./lc-ms-testing.md) | [Quality Control Overview](./index.md)
+> 🔗 Related: [HPLC Analysis](./hplc-analysis.md) | [LC-MS Testing](./lc-ms-testing.md) | [Quality Control Overview](./index.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

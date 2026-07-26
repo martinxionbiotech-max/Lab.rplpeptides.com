@@ -136,4 +136,4 @@ Step 4: Evaluate DMF → NMP or DMAc if regulatory pressure demands
 - Solvent selection must balance performance (peptide solubility, coupling efficiency) with regulatory compliance and green chemistry goals
 - Emerging green solvents (GVL, 2-MeTHF) are promising but not yet widely validated for SPPS
 
-> 🔗 Related: [Green Chemistry](../manufacturing/green-chemistry.md) | [Coupling Reaction](./coupling-reaction.md) | [Deprotection](./deprotection.md) | [DMF](../raw-materials/dmf.md) | [DCM](../raw-materials/dcm.md) | [Manufacturing Workflow](../manufacturing/manufacturing-workflow.md) | [Residual Solvents](../quality-control/residual-solvents.md)
+> 🔗 Related: [Green Chemistry](../manufacturing/green-chemistry.md) | [Coupling Reaction](./coupling-reaction.md) | [Deprotection](./deprotection.md) | [DMF](../raw-materials/dmf.md) | [DCM](../raw-materials/dcm.md) | [Manufacturing Workflow](../manufacturing/manufacturing-workflow.md) | [Residual Solvents](../quality-control/residual-solvents.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

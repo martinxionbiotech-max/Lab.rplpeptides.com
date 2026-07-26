@@ -136,4 +136,4 @@ Operating outside the PAR requires a post-approval change submission (for GMP). 
 - The design space (PAR + NOR) provides operational flexibility without compromising quality
 - In-process controls (UV tracking, Kaiser tests) ensure real-time quality assurance
 
-> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Deprotection](../process/deprotection.md) | [Manufacturing Workflow](./manufacturing-workflow.md) | [Process Analytical Technology](../process/process-analytical-technology.md) | [Method Validation](../quality-control/method-validation.md) | [Purity Analysis](../quality-control/purity-analysis.md)
+> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Deprotection](../process/deprotection.md) | [Manufacturing Workflow](./manufacturing-workflow.md) | [Process Analytical Technology](../process/process-analytical-technology.md) | [Method Validation](../quality-control/method-validation.md) | [Purity Analysis](../quality-control/purity-analysis.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

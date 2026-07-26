@@ -110,4 +110,4 @@ TFA (94%) + TIS (2%) + H₂O (2%) + EDT (1%) + Phenol (1%)
 - **Cleavage Time Guidelines** — Review the section above for key parameters, methods, and quality criteria.
 - **Precipitation** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [SPPS Process](./spps-process.md) | [Deprotection](./deprotection.md) | [Purification](./purification.md) | [TFA](../raw-materials/tfa.md)
+> 🔗 Related: [SPPS Process](./spps-process.md) | [Deprotection](./deprotection.md) | [Purification](./purification.md) | [TFA](../raw-materials/tfa.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

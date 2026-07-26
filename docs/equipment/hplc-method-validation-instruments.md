@@ -171,4 +171,4 @@ Deliberately vary method parameters and assess impact on SST:
 5. **Monitor** → Track SST performance trends over time
 6. **Maintain** → Scheduled preventive maintenance and re-qualification
 
-> **🔗 Related:** [Column Selection Guide](./column-selection-guide.md) | [Detector Comparison](./detector-comparison.md) | [Column Care and Maintenance](./column-care-maintenance.md) | [Water Systems](./water-systems.md)
+> **🔗 Related:** [Column Selection Guide](./column-selection-guide.md) | [Detector Comparison](./detector-comparison.md) | [Column Care and Maintenance](./column-care-maintenance.md) | [Water Systems](./water-systems.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

@@ -83,4 +83,4 @@ Fmoc-NH-AA → Dibenzofulvene + CO₂ + H₂N-AA
 | DCM | 6.2× | Slow (poor solvation) |
 | THF | 5.5× | Slow |
 
-> 🔗 Related: [SPPS Process](../process/spps-process.md) | [Coupling Reaction](../process/coupling-reaction.md) | [Deprotection](../process/deprotection.md) | [Difficult Sequences](../process/difficult-sequences.md)
+> 🔗 Related: [SPPS Process](../process/spps-process.md) | [Coupling Reaction](../process/coupling-reaction.md) | [Deprotection](../process/deprotection.md) | [Difficult Sequences](../process/difficult-sequences.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

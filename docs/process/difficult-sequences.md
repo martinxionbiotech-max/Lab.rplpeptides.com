@@ -91,4 +91,4 @@ description: "Strategies for difficult peptide sequences — aggregation prevent
 - **Strategies for Difficult Couplings** — Review the section above for key parameters, methods, and quality criteria.
 - **How to Prevent Aspartimide Formation?** — See the section above for detailed parameters and specifications.
 
-> 🔗 Related: [Coupling Reaction](./coupling-reaction.md) | [Custom Synthesis](./custom-synthesis.md) | [SPPS Process](./spps-process.md)
+> 🔗 Related: [Coupling Reaction](./coupling-reaction.md) | [Custom Synthesis](./custom-synthesis.md) | [SPPS Process](./spps-process.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

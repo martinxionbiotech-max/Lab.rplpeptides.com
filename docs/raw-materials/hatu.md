@@ -69,4 +69,4 @@ HATU (O-(7-azabenzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphat
 - **Specifications** — Review the section above for key parameters, methods, and quality criteria.
 - **When to Use HATU** — See the section above for detailed parameters and specifications.
 
-> 🔗 Related: [HBTU](./hbtu.md) | [DIC](./dic.md) | [Coupling Reaction](../process/coupling-reaction.md)
+> 🔗 Related: [HBTU](./hbtu.md) | [DIC](./dic.md) | [Coupling Reaction](../process/coupling-reaction.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

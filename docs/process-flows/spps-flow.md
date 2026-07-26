@@ -60,4 +60,4 @@ flowchart TD
 - **Complete Solid-Phase Peptide Synthesis Process** — Review the section above for key parameters, methods, and quality criteria.
 - **Cycle Description** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [SPPS Process Detail](../process/spps-process.md) | [Manufacturing Workflow](../manufacturing/manufacturing-workflow.md) | [Process Knowledge](../process/index.md)
+> 🔗 Related: [SPPS Process Detail](../process/spps-process.md) | [Manufacturing Workflow](../manufacturing/manufacturing-workflow.md) | [Process Knowledge](../process/index.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

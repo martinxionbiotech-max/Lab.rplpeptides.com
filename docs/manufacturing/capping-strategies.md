@@ -122,4 +122,4 @@ Capping can be omitted for:
 - Adds ~15 min per cycle but dramatically reduces purification burden
 - Most beneficial for long sequences, difficult couplings, and high-purity requirements
 
-> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Difficult Sequences](../process/difficult-sequences.md) | [Manufacturing Workflow](./manufacturing-workflow.md) | [Deprotection](../process/deprotection.md) | [Impurity Profiling](../quality-control/impurity-profiling.md)
+> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Difficult Sequences](../process/difficult-sequences.md) | [Manufacturing Workflow](./manufacturing-workflow.md) | [Deprotection](../process/deprotection.md) | [Impurity Profiling](../quality-control/impurity-profiling.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

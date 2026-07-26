@@ -120,4 +120,4 @@ Using a guard column is the single most effective way to extend analytical colum
 4. **Know when to let go** — if regeneration doesn't restore performance after two attempts, the column is done
 5. **Store properly** — most column damage happens when they are sitting idle, not during analysis
 
-> **🔗 Related:** [Column Selection Guide](./column-selection-guide.md) | [Detector Comparison](./detector-comparison.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md) | [Solvent Purity Guide](../raw-materials/solvent-purity-guide.md)
+> **🔗 Related:** [Column Selection Guide](./column-selection-guide.md) | [Detector Comparison](./detector-comparison.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md) | [Solvent Purity Guide](../raw-materials/solvent-purity-guide.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

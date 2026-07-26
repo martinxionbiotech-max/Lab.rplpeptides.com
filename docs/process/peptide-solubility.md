@@ -67,4 +67,4 @@ For peptides with ionizable groups:
 | Gel formation | Dilute 2-5×, sonicate, warm gently |
 | Precipitates during HPLC gradient | Use less organic in initial conditions |
 
-> 🔗 Related: [Purification](../process/purification.md) | [HPLC Analysis](../quality-control/hplc-analysis.md) | [Formulation & Excipients](../process/formulation-excipients.md)
+> 🔗 Related: [Purification](../process/purification.md) | [HPLC Analysis](../quality-control/hplc-analysis.md) | [Formulation & Excipients](../process/formulation-excipients.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

@@ -66,4 +66,4 @@ Many naturally occurring peptides (and therapeutic peptides) have C-terminal ami
 - **Specifications** — Review the section above for key parameters, methods, and quality criteria.
 - **Key Feature** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [Wang Resin](./wang-resin.md) | [Resin Loading](../process/resin-loading.md) | [SPPS Process](../process/spps-process.md)
+> 🔗 Related: [Wang Resin](./wang-resin.md) | [Resin Loading](../process/resin-loading.md) | [SPPS Process](../process/spps-process.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

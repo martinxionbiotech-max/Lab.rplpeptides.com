@@ -93,4 +93,4 @@ Fmoc deprotection generates dibenzofulvene (λmax = 301 nm), which can be monito
 - **Reaction Mechanism** — Review the section above for key parameters, methods, and quality criteria.
 - **UV Monitoring** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [SPPS Process](./spps-process.md) | [Coupling Reaction](./coupling-reaction.md) | [Cleavage](./cleavage.md)
+> 🔗 Related: [SPPS Process](./spps-process.md) | [Coupling Reaction](./coupling-reaction.md) | [Cleavage](./cleavage.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

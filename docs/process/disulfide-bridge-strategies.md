@@ -151,4 +151,4 @@ For 3-disulfide peptides (e.g., conotoxins, defensins), a three-step sequential 
 - Three-step sequential deprotection/oxidation enables regioselective formation of 2–3 non-native or native disulfide bridges
 - Always confirm pairing by MS/MS or partial reduction/alkylation; never assume random oxidation yields the correct pair
 
-> 🔗 Related: [Cyclic Peptide Synthesis](./cyclic-peptide-synthesis.md) | [Peptide Folding](./peptide-folding.md) | [Protecting Group Strategies](../manufacturing/protecting-group-strategies.md) | [On-Resin Modifications](./on-resin-modifications.md) | [Coupling Reaction](./coupling-reaction.md) | [Custom Synthesis](./custom-synthesis.md)
+> 🔗 Related: [Cyclic Peptide Synthesis](./cyclic-peptide-synthesis.md) | [Peptide Folding](./peptide-folding.md) | [Protecting Group Strategies](../manufacturing/protecting-group-strategies.md) | [On-Resin Modifications](./on-resin-modifications.md) | [Coupling Reaction](./coupling-reaction.md) | [Custom Synthesis](./custom-synthesis.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

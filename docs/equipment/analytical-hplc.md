@@ -71,4 +71,4 @@ Quantify peptide purity and identify impurities in crude and purified samples.
 - **Key Parameters** — Review the section above for key parameters, methods, and quality criteria.
 - **Column Selection** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [Preparative HPLC](./preparative-hplc.md) | [HPLC Analysis](../quality-control/hplc-analysis.md) | [Purity Analysis](../quality-control/purity-analysis.md)
+> 🔗 Related: [Preparative HPLC](./preparative-hplc.md) | [HPLC Analysis](../quality-control/hplc-analysis.md) | [Purity Analysis](../quality-control/purity-analysis.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

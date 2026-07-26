@@ -107,4 +107,4 @@ Sub-2 µm particles require UHPLC instrumentation capable of withstanding high b
 - **Overlooking frit material:** Stainless steel frits can chelate peptide-metal interactions, degrading peak shape
 - **Particle size mismatch:** Sub-2 µm on standard HPLC (400 bar limit) wastes potential — it needs UHPLC
 
-> **🔗 Related:** [Detector Comparison Guide](./detector-comparison.md) | [Column Care and Maintenance](./column-care-maintenance.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md) | [Solvent Purity Guide](../raw-materials/solvent-purity-guide.md)
+> **🔗 Related:** [Detector Comparison Guide](./detector-comparison.md) | [Column Care and Maintenance](./column-care-maintenance.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md) | [Solvent Purity Guide](../raw-materials/solvent-purity-guide.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

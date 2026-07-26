@@ -66,4 +66,4 @@ Wang resin is a crosslinked polystyrene bead with p-alkoxybenzyl alcohol linkers
 - **Specifications** — Review the section above for key parameters, methods, and quality criteria.
 - **Key Properties** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [Rink Amide Resin](./rink-amide-resin.md) | [Resin Loading](../process/resin-loading.md) | [SPPS Process](../process/spps-process.md)
+> 🔗 Related: [Rink Amide Resin](./rink-amide-resin.md) | [Resin Loading](../process/resin-loading.md) | [SPPS Process](../process/spps-process.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

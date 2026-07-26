@@ -134,4 +134,4 @@ Proper mixing is essential for SPPS:
 4. **For temperature-sensitive couplings**, pre-cool the reactor jacket before adding activated amino acid
 5. **Document jacket fluid** — 50:50 ethylene glycol:water for −20 to 100 °C; silicone oil for >100 °C
 
-> **🔗 Related:** [Chromatography Skid Systems](./chromatography-skid-systems.md) | [Water Systems](./water-systems.md) | [Resin Comparison Guide](../raw-materials/resin-comparison-guide.md) | [Fmoc Amino Acid Side Chains](../raw-materials/fmoc-amino-acid-side-chains.md)
+> **🔗 Related:** [Chromatography Skid Systems](./chromatography-skid-systems.md) | [Water Systems](./water-systems.md) | [Resin Comparison Guide](../raw-materials/resin-comparison-guide.md) | [Fmoc Amino Acid Side Chains](../raw-materials/fmoc-amino-acid-side-chains.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

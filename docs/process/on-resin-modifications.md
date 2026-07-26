@@ -125,4 +125,4 @@ On-resin phosphorylation of Ser, Thr, or Tyr side chains using protected phospho
 - On-resin phosphorylation requires phosphoramidite or pre-protected phosphate chemistry
 - A short spacer (β-Ala, Ahx, PEG) improves detection and reduces steric interference for large labels
 
-> 🔗 Related: [Capping Strategies](../manufacturing/capping-strategies.md) | [Coupling Reaction](./coupling-reaction.md) | [Custom Synthesis](./custom-synthesis.md) | [Difficult Sequences](./difficult-sequences.md) | [Protecting Group Strategies](../manufacturing/protecting-group-strategies.md) | [Peptide Synthesizer](../equipment/peptide-synthesizer.md)
+> 🔗 Related: [Capping Strategies](../manufacturing/capping-strategies.md) | [Coupling Reaction](./coupling-reaction.md) | [Custom Synthesis](./custom-synthesis.md) | [Difficult Sequences](./difficult-sequences.md) | [Protecting Group Strategies](../manufacturing/protecting-group-strategies.md) | [Peptide Synthesizer](../equipment/peptide-synthesizer.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

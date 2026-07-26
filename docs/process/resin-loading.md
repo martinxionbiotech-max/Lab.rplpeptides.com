@@ -78,4 +78,4 @@ After loading, unreacted sites should be capped to prevent deletion sequences:
 - **What Are the Methods for Resin Loading?** — See the section above for detailed parameters and specifications.
 - **Loading Capacity Measurement** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [SPPS Process](./spps-process.md) | [Coupling Reaction](./coupling-reaction.md) | [Wang Resin](../raw-materials/wang-resin.md) | [Rink Amide Resin](../raw-materials/rink-amide-resin.md)
+> 🔗 Related: [SPPS Process](./spps-process.md) | [Coupling Reaction](./coupling-reaction.md) | [Wang Resin](../raw-materials/wang-resin.md) | [Rink Amide Resin](../raw-materials/rink-amide-resin.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

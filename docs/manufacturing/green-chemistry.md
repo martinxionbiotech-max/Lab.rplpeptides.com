@@ -139,4 +139,4 @@ Peptide purification (prep-HPLC) typically uses acetonitrile/water gradients, ge
 - Concentrated couplings (0.3–0.5 M) and reduced wash cycles can cut solvent use by 40–60%
 - Green chemistry improvements also reduce cost: lower reagent usage, less waste disposal, higher throughput
 
-> 🔗 Related: [Manufacturing Workflow](./manufacturing-workflow.md) | [Coupling Reaction](../process/coupling-reaction.md) | [Production Scale](./production-scale.md) | [SPPS vs. Liquid-Phase](./spps-vs-liquid-phase.md) | [DIC](../raw-materials/dic.md) | [Oxyma](../raw-materials/oxyma.md)
+> 🔗 Related: [Manufacturing Workflow](./manufacturing-workflow.md) | [Coupling Reaction](../process/coupling-reaction.md) | [Production Scale](./production-scale.md) | [SPPS vs. Liquid-Phase](./spps-vs-liquid-phase.md) | [DIC](../raw-materials/dic.md) | [Oxyma](../raw-materials/oxyma.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

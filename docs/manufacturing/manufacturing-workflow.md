@@ -82,4 +82,4 @@ flowchart TD
 - **Stage-by-Stage Overview** — Review the section above for key parameters, methods, and quality criteria.
 - **Typical Timeline** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [Manufacturing Overview](./peptide-synthesis-overview.md) | [SPPS Process](../process/spps-process.md) | [Process Flows Overview](../process-flows/index.md)
+> 🔗 Related: [Manufacturing Overview](./peptide-synthesis-overview.md) | [SPPS Process](../process/spps-process.md) | [Process Flows Overview](../process-flows/index.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

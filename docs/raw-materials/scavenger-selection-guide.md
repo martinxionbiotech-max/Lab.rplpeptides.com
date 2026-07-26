@@ -233,4 +233,4 @@ The following table shows which scavengers effectively trap each protecting grou
 5. **Always pre-cool TFA** before mixing to avoid exothermic fuming
 6. **Test on 10–20 mg of resin-peptide** before committing the full batch
 
-> **🔗 Related:** [Fmoc Amino Acid Side Chains](./fmoc-amino-acid-side-chains.md) | [Resin Comparison Guide](./resin-comparison-guide.md) | [Coupling Reagent Comparison](./coupling-reagent-comparison.md) | [Solvent Purity Guide](./solvent-purity-guide.md)
+> **🔗 Related:** [Fmoc Amino Acid Side Chains](./fmoc-amino-acid-side-chains.md) | [Resin Comparison Guide](./resin-comparison-guide.md) | [Coupling Reagent Comparison](./coupling-reagent-comparison.md) | [Solvent Purity Guide](./solvent-purity-guide.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

@@ -126,4 +126,4 @@ Pbf ≈ Trt ≈ tBu ≈ OtBu > Boc
 | Arginine modification (ornithine) | Pbf insufficiently scavenged | Increase TIS to 5% + add 2.5% EDT |
 | Trp alkylation | Boc or Pbf side products attack Trp | Add 2.5% thioanisole or phenol as additional scavenger |
 
-> **🔗 Related:** [Resin Comparison Guide](./resin-comparison-guide.md) | [Coupling Reagent Comparison](./coupling-reagent-comparison.md) | [Scavenger Selection Guide](./scavenger-selection-guide.md) | [Solvent Purity Guide](./solvent-purity-guide.md)
+> **🔗 Related:** [Resin Comparison Guide](./resin-comparison-guide.md) | [Coupling Reagent Comparison](./coupling-reagent-comparison.md) | [Scavenger Selection Guide](./scavenger-selection-guide.md) | [Solvent Purity Guide](./solvent-purity-guide.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

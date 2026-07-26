@@ -82,4 +82,4 @@ description: "SPPS troubleshooting guide — common failures, root causes, and c
 | **Poor peak shape** | Column fouled | Regenerate/replace |
 | | Wrong pH | Optimize mobile phase pH |
 
-> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Cleavage](../process/cleavage.md) | [Purification](../process/purification.md) | [Difficult Sequences](../process/difficult-sequences.md)
+> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Cleavage](../process/cleavage.md) | [Purification](../process/purification.md) | [Difficult Sequences](../process/difficult-sequences.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

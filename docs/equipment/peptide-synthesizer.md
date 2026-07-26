@@ -113,7 +113,7 @@ Peptide synthesizers automate the repetitive steps of SPPS — deprotection, was
 }
 </script>
 
-> 🔗 Related: [SPPS Process](../process/spps-process.md) | [Reactor System](./reactor.md) | [Coupling Reaction](../process/coupling-reaction.md)
+> 🔗 Related: [SPPS Process](../process/spps-process.md) | [Reactor System](./reactor.md) | [Coupling Reaction](../process/coupling-reaction.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)
 
 ---
 

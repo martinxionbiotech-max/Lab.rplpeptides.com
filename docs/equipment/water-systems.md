@@ -144,4 +144,4 @@ WFI is the highest quality pharmaceutical water, meeting stringent endotoxin and
 6. **Trend all data** — gradual increases in conductivity or TOC often precede excursions
 7. **Use dedicated sample ports** — avoid valves or tees that create dead legs
 
-> **🔗 Related:** [Cleanroom Classification](./cleanroom-classification.md) | [Chromatography Skid Systems](./chromatography-skid-systems.md) | [Laboratory-Scale Reactors](./laboratory-scale-reactors.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md)
+> **🔗 Related:** [Cleanroom Classification](./cleanroom-classification.md) | [Chromatography Skid Systems](./chromatography-skid-systems.md) | [Laboratory-Scale Reactors](./laboratory-scale-reactors.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

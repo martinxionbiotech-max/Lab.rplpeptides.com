@@ -155,4 +155,4 @@ Will the peptide be lyophilized in formulation?
 - Peptide content decreases with higher counterion MW and more basic residues
 - Always characterize residual TFA content for acetate or HCl-exchanged peptides
 
-> 🔗 Related: [Peptide Content](../quality-control/peptide-content.md) | [Lyophilization](./lyophilization.md) | [Purification](./purification.md) | [Purity Analysis](../quality-control/purity-analysis.md) | [Formulation Excipients](./formulation-excipients.md) | [TFA](../raw-materials/tfa.md) | [Manufacturing Workflow](../manufacturing/manufacturing-workflow.md)
+> 🔗 Related: [Peptide Content](../quality-control/peptide-content.md) | [Lyophilization](./lyophilization.md) | [Purification](./purification.md) | [Purity Analysis](../quality-control/purity-analysis.md) | [Formulation Excipients](./formulation-excipients.md) | [TFA](../raw-materials/tfa.md) | [Manufacturing Workflow](../manufacturing/manufacturing-workflow.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

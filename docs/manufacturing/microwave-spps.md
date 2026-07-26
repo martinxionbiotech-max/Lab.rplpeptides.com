@@ -137,4 +137,4 @@ Microwave energy can increase racemization — particularly for certain amino ac
 - Equipment: single-mode cavity synthesizers with fiber-optic temperature control provide the best results
 - Do not use microwave-assisted SPPS indiscriminately — standard protocols work well for short, easy sequences
 
-> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Deprotection](../process/deprotection.md) | [Difficult Sequences](../process/difficult-sequences.md) | [Racemization](../process/racemization.md) | [Peptide Synthesizer](../equipment/peptide-synthesizer.md) | [QbD Synthesis](./qbd-synthesis.md)
+> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Deprotection](../process/deprotection.md) | [Difficult Sequences](../process/difficult-sequences.md) | [Racemization](../process/racemization.md) | [Peptide Synthesizer](../equipment/peptide-synthesizer.md) | [QbD Synthesis](./qbd-synthesis.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

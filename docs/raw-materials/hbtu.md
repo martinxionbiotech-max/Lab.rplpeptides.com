@@ -65,4 +65,4 @@ HBTU (O-(benzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphate) is
 - **Specifications** — Review the section above for key parameters, methods, and quality criteria.
 - **Activation Mechanism** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [HATU](./hatu.md) | [DIC](./dic.md) | [Oxyma](./oxyma.md) | [Coupling Reaction](../process/coupling-reaction.md)
+> 🔗 Related: [HATU](./hatu.md) | [DIC](./dic.md) | [Oxyma](./oxyma.md) | [Coupling Reaction](../process/coupling-reaction.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

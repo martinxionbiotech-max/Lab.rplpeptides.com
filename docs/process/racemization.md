@@ -124,4 +124,4 @@ Measured racemization for selected amino acids under standard coupling condition
 - Mitigation: switch activator, pre-activate cold, minimize base, reduce temperature
 - Detection: chiral HPLC or Marfey's analysis provides quantitative D-isomer measurement
 
-> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Protecting Group Strategies](../manufacturing/protecting-group-strategies.md) | [Microwave SPPS](../manufacturing/microwave-spps.md) | [Deprotection](../process/deprotection.md) | [Purity Analysis](../quality-control/purity-analysis.md) | [DIC](../raw-materials/dic.md) | [Oxyma](../raw-materials/oxyma.md)
+> 🔗 Related: [Coupling Reaction](../process/coupling-reaction.md) | [Protecting Group Strategies](../manufacturing/protecting-group-strategies.md) | [Microwave SPPS](../manufacturing/microwave-spps.md) | [Deprotection](../process/deprotection.md) | [Purity Analysis](../quality-control/purity-analysis.md) | [DIC](../raw-materials/dic.md) | [Oxyma](../raw-materials/oxyma.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

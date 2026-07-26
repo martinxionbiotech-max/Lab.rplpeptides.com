@@ -146,4 +146,4 @@ When scaling a method from analytical to production:
 | Full skid PM | Every 6–12 months | Valve rebuild, sensor calibration |
 | Column re-packing | Every 20–100 cycles | Based on resolution decline |
 
-> **🔗 Related:** [Column Selection Guide](./column-selection-guide.md) | [Column Care and Maintenance](./column-care-maintenance.md) | [Laboratory-Scale Reactors](./laboratory-scale-reactors.md) | [Cleanroom Classification](./cleanroom-classification.md)
+> **🔗 Related:** [Column Selection Guide](./column-selection-guide.md) | [Column Care and Maintenance](./column-care-maintenance.md) | [Laboratory-Scale Reactors](./laboratory-scale-reactors.md) | [Cleanroom Classification](./cleanroom-classification.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

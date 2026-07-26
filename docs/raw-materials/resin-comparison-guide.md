@@ -198,4 +198,4 @@ Common methods to determine resin loading:
 4. **Store resin at 4 °C** in a desiccator — moisture degrades reactive handles (especially 2-chlorotrityl chloride)
 5. **Pre-wash new resin** with DMF (3×) before the first Fmoc removal to remove any loose linker fragments
 
-> **🔗 Related:** [Fmoc Amino Acid Side Chains](./fmoc-amino-acid-side-chains.md) | [Coupling Reagent Comparison](./coupling-reagent-comparison.md) | [Scavenger Selection Guide](./scavenger-selection-guide.md) | [Solvent Purity Guide](./solvent-purity-guide.md)
+> **🔗 Related:** [Fmoc Amino Acid Side Chains](./fmoc-amino-acid-side-chains.md) | [Coupling Reagent Comparison](./coupling-reagent-comparison.md) | [Scavenger Selection Guide](./scavenger-selection-guide.md) | [Solvent Purity Guide](./solvent-purity-guide.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

@@ -195,4 +195,4 @@ Understanding reagent byproducts is important for purification:
 5. **Use 2–5-fold excess of activated amino acid** for routine couplings; increase to 5–10-fold for difficult couplings
 6. **Test Nⁿ-methyl or D-amino acid couplings** with a small resin sample before scaling
 
-> **🔗 Related:** [Fmoc Amino Acid Side Chains](./fmoc-amino-acid-side-chains.md) | [Resin Comparison Guide](./resin-comparison-guide.md) | [Scavenger Selection Guide](./scavenger-selection-guide.md) | [Solvent Purity Guide](./solvent-purity-guide.md)
+> **🔗 Related:** [Fmoc Amino Acid Side Chains](./fmoc-amino-acid-side-chains.md) | [Resin Comparison Guide](./resin-comparison-guide.md) | [Scavenger Selection Guide](./scavenger-selection-guide.md) | [Solvent Purity Guide](./solvent-purity-guide.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

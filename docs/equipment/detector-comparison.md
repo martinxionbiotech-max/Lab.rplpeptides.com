@@ -130,4 +130,4 @@ Similar to ELSD but uses a charged aerosol from a corona discharge to charge dri
 - **For GMP release testing:** UV is the quantitation method of choice. A CAD or MS can supplement for non-UV-absorbing impurities.
 - **For research:** PDA provides peak purity information that single-wavelength UV cannot — vital during stability studies.
 
-> **🔗 Related:** [Column Selection Guide](./column-selection-guide.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md) | [Solvent Purity Guide](../raw-materials/solvent-purity-guide.md)
+> **🔗 Related:** [Column Selection Guide](./column-selection-guide.md) | [HPLC Method Validation](./hplc-method-validation-instruments.md) | [Solvent Purity Guide](../raw-materials/solvent-purity-guide.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

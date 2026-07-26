@@ -66,4 +66,4 @@ Provides accurate molecular weight measurement of intact peptides and fragments.
 - **Ionization Methods** — Review the section above for key parameters, methods, and quality criteria.
 - **Analyzer Types** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [LC-MS System](./lc-ms.md) | [LC-MS Testing](../quality-control/lc-ms-testing.md) | [Mass Confirmation](../quality-control/mass-confirmation.md)
+> 🔗 Related: [LC-MS System](./lc-ms.md) | [LC-MS Testing](../quality-control/lc-ms-testing.md) | [Mass Confirmation](../quality-control/mass-confirmation.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

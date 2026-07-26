@@ -138,4 +138,4 @@ Water in the coupling step is the most common cause of reduced yield:
 6. **Use fresh TFA** for cleavage cocktails — old TFA accumulates water from the atmosphere
 7. **Never store DMF in clear glass** — light accelerates degradation; use amber bottles
 
-> **🔗 Related:** [Fmoc Amino Acid Side Chains](./fmoc-amino-acid-side-chains.md) | [Resin Comparison Guide](./resin-comparison-guide.md) | [Coupling Reagent Comparison](./coupling-reagent-comparison.md) | [Scavenger Selection Guide](./scavenger-selection-guide.md) | [Column Selection Guide](../equipment/column-selection-guide.md)
+> **🔗 Related:** [Fmoc Amino Acid Side Chains](./fmoc-amino-acid-side-chains.md) | [Resin Comparison Guide](./resin-comparison-guide.md) | [Coupling Reagent Comparison](./coupling-reagent-comparison.md) | [Scavenger Selection Guide](./scavenger-selection-guide.md) | [Column Selection Guide](../equipment/column-selection-guide.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

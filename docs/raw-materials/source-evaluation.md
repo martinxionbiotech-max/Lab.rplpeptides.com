@@ -87,4 +87,4 @@ Raw material quality directly impacts:
 - **What Are the Raw Material Qualification Levels?** — See the section above for detailed parameters and specifications.
 - **Key Quality Parameters by Material** — Review the section above for key parameters, methods, and quality criteria.
 
-> 🔗 Related: [Fmoc Amino Acids](./fmoc-amino-acids.md) | [Wang Resin](./wang-resin.md) | [DMF](./dmf.md) | [Quality Control Overview](../quality-control/index.md)
+> 🔗 Related: [Fmoc Amino Acids](./fmoc-amino-acids.md) | [Wang Resin](./wang-resin.md) | [DMF](./dmf.md) | [Quality Control Overview](../quality-control/index.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)

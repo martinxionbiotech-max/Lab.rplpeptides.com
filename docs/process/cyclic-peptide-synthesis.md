@@ -127,4 +127,4 @@ Is the peptide ≤12 AA?
 - High dilution in solution is critical — use slow addition pumps for scales >100 mg
 - Characterization requires LC-MS mass confirmation + MS/MS for regiochemistry
 
-> 🔗 Related: [Disulfide Bridge Strategies](./disulfide-bridge-strategies.md) | [Coupling Reaction](./coupling-reaction.md) | [On-Resin Modifications](./on-resin-modifications.md) | [Custom Synthesis](./custom-synthesis.md) | [Peptide Folding](./peptide-folding.md) | [Protecting Group Strategies](../manufacturing/protecting-group-strategies.md)
+> 🔗 Related: [Disulfide Bridge Strategies](./disulfide-bridge-strategies.md) | [Coupling Reaction](./coupling-reaction.md) | [On-Resin Modifications](./on-resin-modifications.md) | [Custom Synthesis](./custom-synthesis.md) | [Peptide Folding](./peptide-folding.md) | [Protecting Group Strategies](../manufacturing/protecting-group-strategies.md) | [Bulk Peptide Manufacturing & OEM Services](https://rplpeptides.com/custom-peptide-synthesis-oem-manufacturing-quality-standards-for-bulk-procurement/)
